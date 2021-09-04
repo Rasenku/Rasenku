@@ -7,7 +7,8 @@
 <br>
 <div>
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
-  ![Dahveyea's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasenku&langs_count=3&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api?username=Rasenku&show_icons=true&line_height=27&count_private=true&theme=radical)](https://github.com/Rasenku/github-readme-stats)
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasenku&langs_count=3&theme=radical">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rasenku&show_icons=true&line_height=27&count_private=true&theme=radical">
 <img src="https://c.tenor.com/Q-O7_ugaI2AAAAAC/kimetsu-no-yaiba-demon-slayer.gif" align="right">
 <li>
 <b>Name:</b> Dahveyea</li>
