@@ -7,6 +7,7 @@
 <br>
 <div>
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
+  ![Dahveyea's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasenku&langs_count=3&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api?username=Rasenku&show_icons=true&line_height=27&count_private=true&theme=radical)](https://github.com/Rasenku/github-readme-stats)
 <img src="https://c.tenor.com/Q-O7_ugaI2AAAAAC/kimetsu-no-yaiba-demon-slayer.gif" align="right">
 <li>
 <b>Name:</b> Dahveyea</li>
@@ -43,7 +44,6 @@ See here:</p>
 <p align="center"><a href="https://twitch.tv/sinonaim" target="_blank"><img src="https://img.shields.io/badge/dahveyea.cowan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
 </div>
 <br>
-![Dahveyea's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasenku&langs_count=3&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api?username=Rasenku&show_icons=true&line_height=27&count_private=true&theme=radical)](https://github.com/Rasenku/github-readme-stats)
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
