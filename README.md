@@ -40,9 +40,10 @@ Im also good with working on computers/troubleshooting them. I know information 
 <p align="center">Here are some of the ways you can contact me <br>
 See here:</p>
 <p align="center"><a href="https://www.linkedin.com/in/dahveyea-cowan/" target="_blank"><img src="https://img.shields.io/badge/DahveyeaCowan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://discord.me/Losto™#8981" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://twitch.tv/sinonaim" target="_blank"><img src="https://img.shields.io/badge/Sinonaim%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+<p align="center"><a href="https://twitch.tv/sinonaim" target="_blank"><img src="https://img.shields.io/badge/dahveyea.cowan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
 </div>
 <br>
+![Dahveyea's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasenku&langs_count=3&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api?username=Rasenku&show_icons=true&line_height=27&count_private=true&theme=radical)](https://github.com/Rasenku/github-readme-stats)
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
