@@ -2,12 +2,12 @@
 <h1 align="center">~ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
 <br>
 <div align="center">
-<img src="https://i.imgur.com/jx17oHT.gif">
+<img src="https://c.tenor.com/JLq8StwIShwAAAAd/jujutsu-kaisen.gif">
 </div>
 <br>
 <div>
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://c.tenor.com/Q-O7_ugaI2AAAAAC/kimetsu-no-yaiba-demon-slayer.gif" align="right">
 <li>
 <b>Name:</b> Dahveyea</li>
 </li>
@@ -26,7 +26,7 @@
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://c.tenor.com/7x4O6yBgF10AAAAC/kimetsu-no-yaiba-demon-slayer.gif" align="right">
 </div>
 <div>
 <p align="center"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><br>
@@ -39,7 +39,7 @@ Im also good with working on computers/troubleshooting them. I know information 
 <br>
 <p align="center">Here are some of the ways you can contact me <br>
 See here:</p>
-<p align="center"><a href="https://www.linkedin.com/in/dahveyea-cowan/" target="_blank"><img src="https://img.shields.io/badge/DahveyeaCowan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://discord.me/Losto™#8981" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/dahveyea-cowan/" target="_blank"><img src="https://img.shields.io/badge/DahveyeaCowan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <p align="center"><a href="https://twitch.tv/sinonaim" target="_blank"><img src="https://img.shields.io/badge/dahveyea.cowan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
 </div>
 <br>
@@ -47,7 +47,7 @@ See here:</p>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+<img src="https://c.tenor.com/PAOpS7tj01UAAAAC/jujutsu-kaisen-yuji.gif">
 </div>
 <hr>
 </div>
