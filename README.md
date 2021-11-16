@@ -17,9 +17,6 @@
 <b>Loves:</b> Playing video games, drawing, watching anime and nature
 </li>
 </li>
-<li>
-<b>Hobbys:</b> Hmm Not sure probably the same of what I love doing
-</li>
 </li>
 <br>
 <p><b>     Thanks for reading this people<br>
