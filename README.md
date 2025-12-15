@@ -11,7 +11,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rasenku&show_icons=true&line_height=27&count_private=true&theme=radical">
 <img src="https://c.tenor.com/Q-O7_ugaI2AAAAAC/kimetsu-no-yaiba-demon-slayer.gif" align="right">
 <li>
-<b>Name:</b> Dahveyea</li>
+<b>Name:</b> Dahveyea Cowan</li>
 </li>
 <li>
 <b>Loves:</b> Playing video games, drawing, watching anime and figuring out complex problems
@@ -29,7 +29,7 @@
 <div>
 <p align="center"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-As an alumnus of Dominican University of California with a B.S. in Applied Computer Science, I am passionate about leveraging technology to make a positive impact especially in the field of cybersecurity. With a strong interest in ethical hacking, I’m driven by a deep curiosity to understand, secure, and protect digital systems in an ever-evolving threat landscape.
+As an alumnus of Dominican University of California with a B.S. in Applied Computer Science, I am passionate about leveraging technology to make a positive impact especially in the field of cybersecurity. With a strong interest in ethical hacking, I’m driven by a deep curiosity to understand, secure, and protect digital systems in an ever-evolving threat landscape. Also has great customer service skills
 
 During my academic journey, I had the honor of being inducted into the National Technical Honor Society, which reflects my dedication to technical excellence and continuous learning. My experience also includes several years in customer service and IT, where I honed my ability to communicate technical solutions clearly, work under pressure, and deliver results with a customer-first mindset.
 
